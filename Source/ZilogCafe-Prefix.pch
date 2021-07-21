@@ -1,0 +1,18 @@
+//
+// Prefix header for all source files of the 'ParseStarterProject' target in the 'ParseStarterProject' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_3
+#warning "This project uses features only available in iPhone SDK 4.3 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <Parse/Parse.h>
+    #import "SVProgressHUD.h"
+    #import "GlobalConstants.h"
+    #import "ExtendNSLogFunctionality.h"
+#endif
