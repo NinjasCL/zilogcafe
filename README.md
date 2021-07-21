@@ -4,9 +4,7 @@ Made in Late 2013 - Early 2014. This is a prototype of an app for purchasing foo
 
 Sadly due to lack of funding this never really took off.
 
-image:screenshot.png[]
-
-image:process.png[]
+![Process](process.png)
 
 ## Technology
 
@@ -21,9 +19,7 @@ But at least it has a video recorded for posterity.
 
 The "Cafeta" was a rebranding made for a specific presentation.
 
-++++
-<video src="zilogcafe.mp4"></video>
-++++
+https://user-images.githubusercontent.com/292738/126543678-d6b0e4db-1ab2-4992-834a-c5d3a1cde89e.mp4
 
 ## License
 
